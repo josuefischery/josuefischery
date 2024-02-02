@@ -1,8 +1,8 @@
 <div align="center">
 
-## ¡Hola! Soy Josue Fischer
+# ¡Hola! Soy Josue Fischer
 
-<h3>Junior Software Developer 🧑🏻‍💻</h3>
+<h3>Desarrollador de software junior 🧑🏻‍💻</h3>
 
 </div>
 <br>
